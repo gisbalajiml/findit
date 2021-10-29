@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.atp {
+  margin-left: "8px";
+  border-radius: "20px";
+  font-family: "Roboto";
+  font-style: "normal";
+  font-weight: "normal";
+  font-size: "13px";
+  line-height: "24px";
+  color: "#9C27B0";
+  border-color: "#9C27B0"
+}
